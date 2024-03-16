@@ -55,7 +55,6 @@ El proyecto ahora debería estar corriendo en [http://localhost:3000](http://loc
 - **[Git](https://git-scm.com/)**
 
 
-## Autores
 
 - **Juan Esteban Cuellar Argotty** - _202014258_ 
 
