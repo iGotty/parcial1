@@ -56,6 +56,6 @@ El proyecto ahora debería estar corriendo en [http://localhost:3000](http://loc
 
 
 
-- **Juan Esteban Cuellar Argotty** - _202014258_ 
+ **Juan Esteban Cuellar Argotty** - _202014258_ 
 
 
